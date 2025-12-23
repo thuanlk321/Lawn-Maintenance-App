@@ -1,0 +1,2 @@
+javac --module-path "C:\Users\thuan\Downloads\openjfx-25.0.1_windows-x64_bin-sdk\javafx-sdk-25.0.1\lib" --add-modules javafx.controls,javafx.fxml %1.java
+java --module-path "C:\Users\thuan\Downloads\openjfx-25.0.1_windows-x64_bin-sdk\javafx-sdk-25.0.1\lib" --add-modules javafx.controls,javafx.fxml %1

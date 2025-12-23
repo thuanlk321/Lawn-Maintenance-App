@@ -1,0 +1,5 @@
+1,aa,Weed Removal,Lawn Mowing,Fertilizing,White Grub Control,Leaf Cleanup,Mulching,Aeration,220.0,2025-12-25, 2025-12-22
+2,user,Leaf Cleanup,25.0,2025-12-25, 2025-12-22
+3,user,Mulching,30.0,2025-12-26, 2025-12-22
+4,user,Fertilizing,Mulching,Lawn Mowing,95.0,2025-12-26, 2025-12-22
+5,user,Weed Removal,Fertilizing,75.0,2025-12-26, 2025-12-22
